@@ -10,9 +10,7 @@ ol {
   margin: 0;
   padding: 0;
 }
-a {
-  text-decoration: none;
-}
+
 h1,
 h2,
 h3,
@@ -21,7 +19,9 @@ h5,
 h6,
 p {
   margin: 0;
-  padding: 0;
+}
+a {
+  text-decoration: none;
 }
 
 /*common*/
@@ -99,6 +99,11 @@ p {
   color: #434455;
 }
 /*section 1*/
+
+.section-paragraph {
+  padding: 188px 0;
+  max-width: 496px;
+}
 
 .page-section {
   background: #2e2f42;
