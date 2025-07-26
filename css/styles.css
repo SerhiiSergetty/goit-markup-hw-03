@@ -103,6 +103,7 @@ a {
 .section-paragraph {
   padding: 188px 0;
   max-width: 496px;
+  margin: 0 auto;
 }
 
 .page-section {
