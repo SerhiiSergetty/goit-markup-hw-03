@@ -145,7 +145,7 @@ a {
 .page-benefits {
   padding: 120px 0;
 }
-.Benefits-list {
+.benefits-list {
   display: flex;
   gap: 24px;
 }
