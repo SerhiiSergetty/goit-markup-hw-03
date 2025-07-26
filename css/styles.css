@@ -204,6 +204,13 @@ a {
 .list-item-team {
   border-radius: 0 0 4px 4px;
 }
+.team-name {
+  padding: 8px;
+}
+
+.name-prof {
+  width: calc((100%-72) / 4);
+}
 
 .team-heading {
   font-size: 36px;
