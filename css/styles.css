@@ -248,8 +248,12 @@ img {
   column-gap: 24px;
 }
 
-.container-portfolio {
+.page-portfolio {
   padding: 120px 0 120px 0;
+}
+
+.heading-our-portfolio {
+  margin-bottom: 72px;
 }
 
 . .heading-our-portfolio {
