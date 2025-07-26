@@ -182,6 +182,9 @@ a {
   color: #434455;
 }
 /*section 3*/
+.container-team {
+  padding: 32px;
+}
 
 .team-heading {
   margin-bottom: 72px;
