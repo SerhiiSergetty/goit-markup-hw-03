@@ -242,6 +242,9 @@ img {
 }
 /*section 4*/
 
+.container-portfolio {
+}
+
 .list-portfolio {
   display: flex;
   flex-wrap: wrap;
@@ -254,6 +257,10 @@ img {
 
 .heading-our-portfolio {
   margin-bottom: 72px;
+}
+
+.list-item-portfolio {
+  row-gap: 48px;
 }
 
 . .heading-our-portfolio {
