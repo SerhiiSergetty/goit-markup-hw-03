@@ -183,8 +183,8 @@ a {
 }
 /*section 3*/
 
-.list-item-team {
-  width: calc((100%-72px) / 4);
+.container-team {
+  padding: 32px 0;
 }
 
 .team-heading {
@@ -203,6 +203,7 @@ a {
 
 .list-item-team {
   border-radius: 0 0 4px 4px;
+  width: calc((100%-72px) / 4);
 }
 .team-name {
   padding: 8px;
