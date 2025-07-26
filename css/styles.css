@@ -30,9 +30,11 @@ a {
   padding: 0px 15px;
   margin: 0px auto;
 }
-.img {
+
+img {
   display: block;
 }
+
 /*header*/
 .header-container {
   display: flex;
