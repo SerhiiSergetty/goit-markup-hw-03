@@ -100,12 +100,16 @@ a {
 }
 /*section 1*/
 
-.section-paragraph {
-  padding: 188px 0;
+.container-page {
+  padding: 188px 0 188px 0;
   max-width: 496px;
-  margin: 0 auto;
 }
 
+.section-button {
+  max-width: 169px;
+  display: block;
+  border-radius: 4px;
+}
 .page-section {
   background: #2e2f42;
 }
