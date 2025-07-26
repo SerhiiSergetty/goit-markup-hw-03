@@ -242,14 +242,24 @@ img {
   background-color: #ffffff;
 }
 /*section 4*/
-.page-portfolio {
-  padding: 120px 0 120px 0;
+
+.container-portfolio {
+  padding: 32px 16px;
+  border: 1px solid #e7e9fc;
 }
 
 .options-portfolio {
+  margin-bottom: 8px;
+}
+
+.page-portfolio {
+  padding: 120px 0 120px 0;
+}
+.list-portfolio {
   display: flex;
   flex-wrap: wrap;
   column-gap: 24px;
+  row-gap: 48px;
 }
 
 .heading-our-portfolio {
