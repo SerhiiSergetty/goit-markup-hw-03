@@ -242,22 +242,14 @@ img {
 }
 /*section 4*/
 
-.list-item-portfolio {
-  row-gap: 48px;
-}
-
-.container-portfolio {
-  padding: 32px 16px;
+.page-portfolio {
+  padding: 120px 0 120px 0;
 }
 
 .list-portfolio {
   display: flex;
   flex-wrap: wrap;
   column-gap: 24px;
-}
-
-.page-portfolio {
-  padding: 120px 0 120px 0;
 }
 
 .heading-our-portfolio {
