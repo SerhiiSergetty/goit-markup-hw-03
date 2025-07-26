@@ -206,7 +206,7 @@ a {
   width: calc((100%-72px) / 4);
 }
 .team-name {
-  padding: 8px;
+  margin-bottom: 8px;
 }
 
 .team-heading {
