@@ -289,6 +289,16 @@ img {
   color: #434455;
 }
 /*footer*/
+
+.footer-logo {
+  display: inline-block;
+  padding: 16px;
+}
+
+.container-footer {
+  padding: 100px 0;
+}
+
 .page-footer {
   background-color: #2e2f42;
 }
