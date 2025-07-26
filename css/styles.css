@@ -182,9 +182,15 @@ a {
   color: #434455;
 }
 /*section 3*/
+
+.team-list {
+}
+
 .page-team {
   background-color: #f4f4fd;
+  padding: 120px 0;
 }
+
 .team-heading {
   font-size: 36px;
   line-height: 1.11;
