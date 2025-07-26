@@ -245,11 +245,6 @@ img {
 .page-portfolio {
   padding: 120px 0 120px 0;
 }
-
-.heading-our-portfolio {
-  margin-bottom: 8px;
-}
-
 .options-portfolio {
   display: flex;
   flex-wrap: wrap;
