@@ -242,8 +242,8 @@ img {
 }
 /*section 4*/
 
-.options-portfolio {
-  margin-bottom: 8px;
+.list-item-portfolio {
+  row-gap: 48px;
 }
 
 .container-portfolio {
@@ -264,7 +264,7 @@ img {
   margin-bottom: 72px;
 }
 
-. .heading-our-portfolio {
+.heading-our-portfolio {
   font-size: 36px;
   line-height: 1.11;
   letter-spacing: 0.02em;
