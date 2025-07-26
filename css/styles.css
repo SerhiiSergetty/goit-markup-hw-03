@@ -242,7 +242,12 @@ img {
 }
 /*section 4*/
 
+.options-portfolio {
+  margin-bottom: 8px;
+}
+
 .container-portfolio {
+  padding: 32px 16px;
 }
 
 .list-portfolio {
@@ -257,10 +262,6 @@ img {
 
 .heading-our-portfolio {
   margin-bottom: 72px;
-}
-
-.list-item-portfolio {
-  row-gap: 48px;
 }
 
 . .heading-our-portfolio {
