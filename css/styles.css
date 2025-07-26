@@ -242,6 +242,9 @@ img {
   background-color: #ffffff;
 }
 /*section 4*/
+.container-portfolio {
+  padding: 120px 0 120px 0;
+}
 
 .options-portfolio {
   display: flex;
