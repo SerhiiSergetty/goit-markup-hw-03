@@ -250,7 +250,7 @@ img {
   margin-bottom: 8px;
 }
 
-.list-portfolio {
+.options-portfolio {
   display: flex;
   flex-wrap: wrap;
   column-gap: 24px;
