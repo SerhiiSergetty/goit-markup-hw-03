@@ -30,6 +30,9 @@ a {
   padding: 0px 15px;
   margin: 0px auto;
 }
+.img {
+  display: block;
+}
 /*header*/
 .header-container {
   display: flex;
@@ -236,6 +239,11 @@ a {
   background-color: #ffffff;
 }
 /*section 4*/
+
+.container-portfolio {
+  padding: 120px 0 120px 0;
+}
+
 .heading-our-portfolio {
   font-size: 36px;
   line-height: 1.11;
