@@ -111,6 +111,7 @@ img {
 .section-paragraph {
   max-width: 496px;
   margin: 0 auto;
+  margin-bottom: 48px;
 }
 
 .section-button {
@@ -130,7 +131,6 @@ img {
   letter-spacing: 0.02em;
   text-align: center;
   color: #fff;
-  padding-bottom: 48px;
 }
 .section-button {
   font-weight: 500;
@@ -208,7 +208,7 @@ img {
 
 .list-item-team {
   border-radius: 0 0 4px 4px;
-  width: calc((100%-72px) / 4);
+  width: calc((100% - 72px) / 4);
 }
 .team-name {
   margin-bottom: 8px;
