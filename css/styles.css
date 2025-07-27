@@ -241,8 +241,7 @@ img {
   background-color: #ffffff;
 }
 /*section 4*/
-
-.list-portfolio {
+.list-item-portfolio {
   width: calc((100%-48px) / 3);
 }
 
