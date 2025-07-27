@@ -242,7 +242,7 @@ img {
 }
 /*section 4*/
 
-.list-item-portfolio {
+.list-portfolio {
   width: calc((100%-48px) / 6);
 }
 
